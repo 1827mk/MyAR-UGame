@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MyReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5243149435633980962
+  m_GuidHigh: 1296129555787803557
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4858725739861340759
+      m_GuidHigh: 9330509877493043903
+    m_SerializedTextureGuid:
+      m_GuidLow: 18006730546836739207
+      m_GuidHigh: 18212076723849365577
+    m_Size: {x: 0.2, y: 0.22535212}
+    m_SpecifySize: 1
+    m_Name: photo_2024-10-30_23-10-54
+    m_Texture: {fileID: 2800000, guid: 52611487c207f9e4498833e3494bbefc, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4676029698215068872
+      m_GuidHigh: 11072737678623657904
+    m_SerializedTextureGuid:
+      m_GuidLow: 11044101854894798809
+      m_GuidHigh: 1201214063622018106
+    m_Size: {x: 0.2, y: 0.21122113}
+    m_SpecifySize: 1
+    m_Name: photo_2024-10-30_23-11-01
+    m_Texture: {fileID: 2800000, guid: 743cb7d9881f99443ad46499d391ab10, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4638096552079094161
+      m_GuidHigh: 18166428172057469101
+    m_SerializedTextureGuid:
+      m_GuidLow: 4162599696520176610
+      m_GuidHigh: 10245014028073210698
+    m_Size: {x: 0.2, y: 0.160625}
+    m_SpecifySize: 1
+    m_Name: photo_2024-10-30_23-11-06
+    m_Texture: {fileID: 2800000, guid: 9d3be3e2865e39c44a933266fa992d8e, type: 3}
